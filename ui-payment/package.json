@@ -34,7 +34,7 @@
     "react-router-dom": "^6.4.3",
     "react-use": "^17.4.0",
     "tw-elements": "^1.0.0-alpha12",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@types/cookie": "^0.5.1",
