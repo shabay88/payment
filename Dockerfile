@@ -14,7 +14,7 @@ RUN make build
 ENTRYPOINT []
 
 # Prepare production-ready image
-FROM alpine:3.17
+FROM alpine:3.22.0
 
 RUN apk add --no-cache tzdata libc6-compat
 ENV TZ=UTC
